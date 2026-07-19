@@ -1,4 +1,4 @@
-# Local Business Delivery Platform (LocalDash)
+# Local Business Delivery Platform (CraveGo)
 
 A complete, modern, responsive full-stack delivery ecosystem designed for small local businesses, delivery couriers, customers, and system administrators. 
 
